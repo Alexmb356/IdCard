@@ -1,0 +1,30 @@
+
+body{
+    margin-top: 5%;
+    /*background: linear-gradient(to bottom right, rgb(23, 23, 118), rgb(141, 152, 209));*/
+    background-color:rgb(70, 88, 176);
+    min-height: 100%;
+    
+}
+
+h1{
+    position: relative;
+    color: black;
+}
+
+p {
+    color: whitesmoke;
+}
+
+button {
+  
+    border-radius: 10px 10px 10px 10px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+       color: rgb(232, 213, 213);
+}
